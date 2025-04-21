@@ -1,2 +1,2 @@
 ## 2025/04
-- [2360. Longest Cycle in a Graph](Graph/Class2360.cs)
+- [2360. Longest Cycle in a Graph](Graph/2360_Longest Cycle in a Graph.cs)
