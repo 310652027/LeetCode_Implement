@@ -17,6 +17,8 @@ namespace HTR
                 int[] query = queries[index];
                 int select1 = query[0], select2 = query[1];
                 //Find Lowest Common Ancestor
+                //If two number is not equal, change one number to its upper level.
+                //Every time number change, we pass through a edge , ex: 7 => 3 will pass one edge.
                 int path = 0;
                 while(select1 != select2)
                 {
