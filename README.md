@@ -4,4 +4,5 @@
 - 4/22 [1383. Maximum Performance of a Team](Heap/1383_MaximumPerformanceofaTeam.cs)
 - 4/23 [1269. Number of Ways to Stay in the Same Place After Some Steps](DynamicProgram/1269NumWays.cs)
 - 4/24 [2509. Cycle Length Queries in a Tree](Graph/2509CycleLengthQueriesinaTree.cs)
+- 4/25 [2321. Maximum Score Of Spliced Array](DynamicProgram/2321_MaximumScoreOfSplicedArray.cs)
 
