@@ -8,4 +8,5 @@
 - 4/28 [2302. Count Subarrays With Score Less Than K](Sliding_Window/2302_CountSubarraysWithScoreLessThanK.cs)
 - 4/29 [1745. Palindrome Partitioning IV](DynamicProgram/1745_PalindromePartitioningIV.cs)
 - 4/30 [3317. Find the Number of Possible Ways for an Event](Math/3317_FindtheNumberofPossibleWaysforanEvent.cs)
-
+## 2025/05
+- 5/05 [2281. Sum of Total Strength of Wizards](PrefixSum/2281_SumofTotalStrengthofWizards.cs)
