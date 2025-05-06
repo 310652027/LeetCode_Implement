@@ -10,3 +10,4 @@
 - 4/30 [3317. Find the Number of Possible Ways for an Event](Math/3317_FindtheNumberofPossibleWaysforanEvent.cs)
 ## 2025/05
 - 5/05 [2281. Sum of Total Strength of Wizards](PrefixSum/2281_SumofTotalStrengthofWizards.cs)
+- 5/06 [2071. Maximum Number of Tasks You Can Assign](BinarySearch/2071_MaximumNumberofTasksYouCanAssign.cs)
