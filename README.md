@@ -11,3 +11,5 @@
 ## 2025/05
 - 5/05 [2281. Sum of Total Strength of Wizards](PrefixSum/2281_SumofTotalStrengthofWizards.cs)
 - 5/06 [2071. Maximum Number of Tasks You Can Assign](BinarySearch/2071_MaximumNumberofTasksYouCanAssign.cs)
+- 5/07 [1916. Count Ways to Build Rooms in an Ant Colony](DynamicProgram/1916_CountWaystoBuildRoomsinanAntColony.cs)
+
