@@ -13,3 +13,4 @@
 - 5/06 [2071. Maximum Number of Tasks You Can Assign](BinarySearch/2071_MaximumNumberofTasksYouCanAssign.cs)
 - 5/07 [1916. Count Ways to Build Rooms in an Ant Colony](DynamicProgram/1916_CountWaystoBuildRoomsinanAntColony.cs)
 - 5/08 [1998. GCD Sort of an Array](UnionFind/1998_GCDSortofanArray.cs)
+- 5/14 [3337. Total Characters in String After Transformations II](Math/3337_TotalCharactersinStringAfterTransformationsII.cs)
