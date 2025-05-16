@@ -15,3 +15,4 @@
 - 5/08 [1998. GCD Sort of an Array](UnionFind/1998_GCDSortofanArray.cs)
 - 5/14 [3337. Total Characters in String After Transformations II](Math/3337_TotalCharactersinStringAfterTransformationsII.cs)
 - 5/15 [3519. Count Numbers with Non-Decreasing Digits](DIgitDP/3519_CountNumberswithNon-DecreasingDigits.cs)
+- 5/16 [2827. Number of Beautiful Integers in the Range](DIgitDP/2827_NumberofBeautifulIntegersintheRange.cs)
