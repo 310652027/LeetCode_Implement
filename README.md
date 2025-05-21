@@ -18,3 +18,4 @@
 - 5/16 [2827. Number of Beautiful Integers in the Range](DIgitDP/2827_NumberofBeautifulIntegersintheRange.cs)
 - 5/19 [1931. Painting a Grid With Three Different Colors](BitMaskDP/1931_PaintingaGridWithThreeDifferentColors.cs)
 - 5/20 [3277. Maximum XOR Score Subarray Queries](DynamicProgram/3277_MaximumXORScoreSubarrayQueries.cs)
+- 5/21 [2561. Rearranging Fruits](Greedy/2561_RearrangingFruits.cs)
