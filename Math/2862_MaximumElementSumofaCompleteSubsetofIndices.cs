@@ -6,7 +6,7 @@
         {
             // If a * b is a perfect square, a and b has same radicand
             // like 2 * 8 == 16 , 2* 18 == 36 & 8 * 18 == 96 all will be perfect square becuase 2 is radicand of 2 ,8 and 18
-            // Thus, we can group the index by there radicand and find the maximum sum.
+            // Thus, we can group the index by their radicand and find the maximum sum.
             bool[] Add = new bool[nums.Count];
             long ans = 0;
             for (int i = 0; i < nums.Count; i++)
