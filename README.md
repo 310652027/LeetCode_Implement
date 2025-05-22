@@ -19,3 +19,4 @@
 - 5/19 [1931. Painting a Grid With Three Different Colors](BitMaskDP/1931_PaintingaGridWithThreeDifferentColors.cs)
 - 5/20 [3277. Maximum XOR Score Subarray Queries](DynamicProgram/3277_MaximumXORScoreSubarrayQueries.cs)
 - 5/21 [2561. Rearranging Fruits](Greedy/2561_RearrangingFruits.cs)
+- 5/22 [2862. Maximum Element-Sum of a Complete Subset of Indices](Math/2862_MaximumElementSumofaCompleteSubsetofIndices.cs)
