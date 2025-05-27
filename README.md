@@ -22,3 +22,4 @@
 - 5/22 [2862. Maximum Element-Sum of a Complete Subset of Indices](Math/2862_MaximumElementSumofaCompleteSubsetofIndices.cs)
 - 5/23 [3068. Find the Maximum Sum of Node Values](Math/3068_FindtheMaximumSumofNodeValues.cs)
 - 5/26 [1857. Largest Color Value in a Directed Graph](TopologicalSorting/1857_LargestColorValueinaDirectedGraph.cs)
+- 5/27 [3343. Count Number of Balanced Permutations](DynamicProgram/3343_CountNumberofBalancedPermutations.cs)
