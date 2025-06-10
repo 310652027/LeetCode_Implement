@@ -23,3 +23,6 @@
 - 5/23 [3068. Find the Maximum Sum of Node Values](Math/3068_FindtheMaximumSumofNodeValues.cs)
 - 5/26 [1857. Largest Color Value in a Directed Graph](TopologicalSorting/1857_LargestColorValueinaDirectedGraph.cs)
 - 5/27 [3343. Count Number of Balanced Permutations](DynamicProgram/3343_CountNumberofBalancedPermutations.cs)
+## 2025/05
+- 6/09 [440. K-th Smallest in Lexicographical Order](Trie/440_KthSmallestinLexicographicalOrder.cs)
+- 6/10 [2376. Count Special Integers](DIgitDP/2376_CountSpecialIntegers.cs)
