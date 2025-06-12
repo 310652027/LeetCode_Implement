@@ -26,3 +26,4 @@
 ## 2025/05
 - 6/09 [440. K-th Smallest in Lexicographical Order](Trie/440_KthSmallestinLexicographicalOrder.cs)
 - 6/10 [2376. Count Special Integers](DIgitDP/2376_CountSpecialIntegers.cs)
+- 6/11 [3445. Maximum Difference Between Even and Odd Frequency II](Sliding_Window/3445_MaximumDifferenceBetweenEvenandOddFrequencyII.cs)
