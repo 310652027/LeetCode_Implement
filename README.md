@@ -27,3 +27,4 @@
 - 6/09 [440. K-th Smallest in Lexicographical Order](Trie/440_KthSmallestinLexicographicalOrder.cs)
 - 6/10 [2376. Count Special Integers](DIgitDP/2376_CountSpecialIntegers.cs)
 - 6/11 [3445. Maximum Difference Between Even and Odd Frequency II](Sliding_Window/3445_MaximumDifferenceBetweenEvenandOddFrequencyII.cs)
+- 6/12 [3463. Check If Digits Are Equal in String After Operations II](Math/3463_CheckIfDigitsAreEqualinStringAfterOperationsII.cs)
