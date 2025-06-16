@@ -29,3 +29,4 @@
 - 6/11 [3445. Maximum Difference Between Even and Odd Frequency II](Sliding_Window/3445_MaximumDifferenceBetweenEvenandOddFrequencyII.cs)
 - 6/12 [3463. Check If Digits Are Equal in String After Operations II](Math/3463_CheckIfDigitsAreEqualinStringAfterOperationsII.cs)
 - 6/13 [174. Dungeon Game](DynamicProgram/174_DungeonGame.cs)
+- 6/16 [2968. Apply Operations to Maximize Frequency Score](BinarySearch/2968_ApplyOperationstoMaximizeFrequencyScore.cs)
