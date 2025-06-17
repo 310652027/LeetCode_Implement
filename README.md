@@ -30,3 +30,4 @@
 - 6/12 [3463. Check If Digits Are Equal in String After Operations II](Math/3463_CheckIfDigitsAreEqualinStringAfterOperationsII.cs)
 - 6/13 [174. Dungeon Game](DynamicProgram/174_DungeonGame.cs)
 - 6/16 [2968. Apply Operations to Maximize Frequency Score](BinarySearch/2968_ApplyOperationstoMaximizeFrequencyScore.cs)
+- 6/17 [3405. Count the Number of Arrays with K Matching Adjacent](Math/3405_CounttheNumberofArrayswithKMatchingAdjacentElements.cs)
