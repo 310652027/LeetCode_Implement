@@ -32,3 +32,4 @@
 - 6/16 [2968. Apply Operations to Maximize Frequency Score](BinarySearch/2968_ApplyOperationstoMaximizeFrequencyScore.cs)
 - 6/17 [3405. Count the Number of Arrays with K Matching Adjacent](Math/3405_CounttheNumberofArrayswithKMatchingAdjacentElements.cs)
 - 6/23 [2081. Sum of k-Mirror Numbers](Math/2081_SumofkMirrorNumbers.cs)
+- 6/25 [2040. Kth Smallest Product of Two Sorted Arrays](BinarySearch/2040_KthSmallestProductofTwoSortedArrays.cs)
