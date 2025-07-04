@@ -35,4 +35,4 @@
 - 6/25 [2040. Kth Smallest Product of Two Sorted Arrays](BinarySearch/2040_KthSmallestProductofTwoSortedArrays.cs)
 - ## 2025/07
 - 7/03 [3333. Find the Original Typed String II](DynamicProgram/3333_FindtheOriginalTypedStringII.cs)
-- 7/04 [3307. Find the K-th Character in String Game II](BitManipulation3307_FindtheKthCharacterinStringGameII.cs)
+- 7/04 [3307. Find the K-th Character in String Game II](BitManipulation/3307_FindtheKthCharacterinStringGameII.cs)
