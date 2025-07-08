@@ -36,3 +36,4 @@
 - ## 2025/07
 - 7/03 [3333. Find the Original Typed String II](DynamicProgram/3333_FindtheOriginalTypedStringII.cs)
 - 7/04 [3307. Find the K-th Character in String Game II](BitManipulation/3307_FindtheKthCharacterinStringGameII.cs)
+- 7/08 [1751. Maximum Number of Events That Can Be Attended II](DynamicProgram/1751_MaximumNumberofEventsThatCanBeAttendedII.cs)
