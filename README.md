@@ -38,4 +38,4 @@
 - 7/04 [3307. Find the K-th Character in String Game II](BitManipulation/3307_FindtheKthCharacterinStringGameII.cs)
 - 7/08 [1751. Maximum Number of Events That Can Be Attended II](DynamicProgram/1751_MaximumNumberofEventsThatCanBeAttendedII.cs)
 - 7/11 [2402. Meeting Rooms III](Array/2402_MeetingRoomsIII.cs)
-- 7/11 [2322. Minimum Score After Removals on a Tree](Tree/2322_MinimumScoreAfterRemovalsonaTree.cs)
+- 7/28 [2322. Minimum Score After Removals on a Tree](Tree/2322_MinimumScoreAfterRemovalsonaTree.cs)
