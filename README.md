@@ -39,3 +39,5 @@
 - 7/08 [1751. Maximum Number of Events That Can Be Attended II](DynamicProgram/1751_MaximumNumberofEventsThatCanBeAttendedII.cs)
 - 7/11 [2402. Meeting Rooms III](Array/2402_MeetingRoomsIII.cs)
 - 7/28 [2322. Minimum Score After Removals on a Tree](Tree/2322_MinimumScoreAfterRemovalsonaTree.cs)
+- - ## 2025/08
+- 8/06 [1298. Maximum Candies You Can Get from Boxes](Queue1298_MaximumCandiesYouCanGetfromBoxes.cs)
