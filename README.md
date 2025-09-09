@@ -42,5 +42,4 @@
 - - ## 2025/08
 - 8/06 [1298. Maximum Candies You Can Get from Boxes](Queue/1298_MaximumCandiesYouCanGetfromBoxes.cs)
 - - ## 2025/09
-- 8/06 [1298. Maximum Candies You Can Get from Boxes](Queue/1298_MaximumCandiesYouCanGetfromBoxes.cs)
-- 9/09 [987. Vertical Order Traversal of a Binary Tree](Graph/987_Vertica_OrderTraversalofaBinaryTree.cs)
+- 9/09 [987. Vertical Order Traversal of a Binary Tree](Graph/987_VerticalOrderTraversalofaBinaryTree.cs)
