@@ -40,4 +40,6 @@
 - 7/11 [2402. Meeting Rooms III](Array/2402_MeetingRoomsIII.cs)
 - 7/28 [2322. Minimum Score After Removals on a Tree](Tree/2322_MinimumScoreAfterRemovalsonaTree.cs)
 - - ## 2025/08
-- 8/06 [1298. Maximum Candies You Can Get from Boxes](Queue1298_MaximumCandiesYouCanGetfromBoxes.cs)
+- 8/06 [1298. Maximum Candies You Can Get from Boxes](Queue/1298_MaximumCandiesYouCanGetfromBoxes.cs)
+- - ## 2025/09
+- 9/09 [987. Vertical Order Traversal of a Binary Tree](Graph/987_Vertica_OrderTraversalofaBinaryTree.cs)
