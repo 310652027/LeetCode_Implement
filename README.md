@@ -43,3 +43,5 @@
 - 8/06 [1298. Maximum Candies You Can Get from Boxes](Queue/1298_MaximumCandiesYouCanGetfromBoxes.cs)
 - - ## 2025/09
 - 9/09 [987. Vertical Order Traversal of a Binary Tree](Graph/987_VerticalOrderTraversalofaBinaryTree.cs)
+- 9/16 [2197. Replace Non-Coprime Numbers in Array](Stack/2197_ReplaceNonCoprimeNumbersinArray.cs)
+
